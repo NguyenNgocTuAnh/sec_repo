@@ -1,1 +1,1 @@
-print('function')
+#! /usr/bin/python3
